@@ -8,3 +8,13 @@ C:\Users\dcL\source\repos\mycalculator\mycalculator\obj\Debug\mycalculator.cspro
 C:\Users\dcL\source\repos\mycalculator\mycalculator\obj\Debug\mycalculator.csproj.CoreCompileInputs.cache
 C:\Users\dcL\source\repos\mycalculator\mycalculator\obj\Debug\mycalculator.exe
 C:\Users\dcL\source\repos\mycalculator\mycalculator\obj\Debug\mycalculator.pdb
+C:\Users\USER\Desktop\Jahid\calculator\mycalculator\bin\Debug\mycalculator.exe.config
+C:\Users\USER\Desktop\Jahid\calculator\mycalculator\bin\Debug\mycalculator.exe
+C:\Users\USER\Desktop\Jahid\calculator\mycalculator\bin\Debug\mycalculator.pdb
+C:\Users\USER\Desktop\Jahid\calculator\mycalculator\obj\Debug\mycalculator.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Jahid\calculator\mycalculator\obj\Debug\mycalculator.Form1.resources
+C:\Users\USER\Desktop\Jahid\calculator\mycalculator\obj\Debug\mycalculator.Properties.Resources.resources
+C:\Users\USER\Desktop\Jahid\calculator\mycalculator\obj\Debug\mycalculator.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Jahid\calculator\mycalculator\obj\Debug\mycalculator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Jahid\calculator\mycalculator\obj\Debug\mycalculator.exe
+C:\Users\USER\Desktop\Jahid\calculator\mycalculator\obj\Debug\mycalculator.pdb
