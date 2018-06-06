@@ -116,7 +116,7 @@ namespace mycalculator
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            compute();
+           // compute(); // Complete should not be here.
             label1.Text = "";
         }
 
@@ -150,13 +150,18 @@ namespace mycalculator
 
         }
 
+        private void button12_Click(object sender, EventArgs e)
+        {
+            compute();
+        }
+
         public void compute()
         {
             switch(count)
             {
 
                 case 1:
-                     //exception here....
+                     //exception here.... fixed at line. 119 and fixed at line 155 
                         res = num + float.Parse(textBox1.Text);
                         textBox1.Text = res.ToString();
                     break;
